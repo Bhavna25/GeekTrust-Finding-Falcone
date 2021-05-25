@@ -2,7 +2,7 @@
 
  https://duptz.csb.app/
 
-### (1)Start App                     ### (2)Build                            ### (3)Test
+### (1)Start App                     (2)Build                                 (3)Test
     1) npm install                  1) npm run build                          1) npm test
     2) npm start                        
     3) Open 
