@@ -1,14 +1,12 @@
 # Finding Falcone React App 
 
- App Link: http://finding-falcone-geektrust.s3-website.us-east-2.amazonaws.com
-
-## Steps:
+ https://duptz.csb.app/
 
 ### Start App
 
 1) npm install
 2) npm start
-3) Open  http://localhost:9091/
+3) Open 
 
 ### Build
 1) npm run build
